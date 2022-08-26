@@ -21,7 +21,7 @@
 #### Pre Requisitos:
 * Para realizar o teste de performance, é preciso ter instalado o JMeter;
 * Ter instalado o Docker e executar o seguinte comando no terminal: docker run -p 3000:3000 paulogoncalvesbh/serverest:latest ;
-* Realizar o download do projeto. 
+* Realizar o download do arquivo .jmx contido nesse repositório: https://github.com/anaizaalencar/Teste-de-Performace-ServeRest/blob/main/ReportServeSrest.jmx. 
 
 #### Passo a passo:
 * Com o JMeter instalado, a ferramenta deve ser executada. Ao abrir a ferramenta, é preciso seguir os seguintes passos para abrir e executar o script:
